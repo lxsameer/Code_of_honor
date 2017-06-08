@@ -1,2 +1,2 @@
-# Code_of_honor
+# Code Of Honor
 My personal principles.
