@@ -1,3 +1,5 @@
 # Programming
 
-1. Simplicity over Complexity
+* Simplicity over Complexity
+* Abstraction, Abstraction, Abstraction
+* Put your conventions layer on top of a well written abstraction
