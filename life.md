@@ -1,6 +1,11 @@
 # Life
 
-1. Don't betray your code of honor.
-2. Live life as a Man.
-3. Don't talk without a knowledge behind it.
-4. Don't argue with the crazy guy
+* Don't betray your code of honor.
+* Defend your bushido way.
+* Live life as a Man.
+* Don't talk without a knowledge behind it.
+* Don't argue with the crazy guy
+* Justic
+* Feel the pain of people.
+* Always put your self in people's shoe before making any decision
+
