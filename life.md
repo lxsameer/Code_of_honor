@@ -8,4 +8,4 @@
 * Justic
 * Feel the pain of people.
 * Always put your self in people's shoe before making any decision
-
+* A simple smile goes a long way
